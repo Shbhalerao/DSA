@@ -1,7 +1,7 @@
 # 📚 Data Structures & Algorithms Simplified
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/data-structure.png" alt="Data Structures & Algorithms Logo"/>
+  
 </p>
 
 Welcome to **Data Structures & Algorithms Simplified**! This repository is dedicated to providing clear, concise, and easy-to-understand implementations of common data structures and algorithms. Whether you’re a beginner or looking to brush up on your skills, this repository is designed to help you learn effectively.
@@ -40,4 +40,4 @@ Welcome to **Data Structures & Algorithms Simplified**! This repository is dedic
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/DataStructuresAndAlgorithmsSimplified.git
+   git clone https://github.com/Shbhalerao/DSA.git
